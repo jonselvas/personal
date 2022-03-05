@@ -1,0 +1,726 @@
+
+
+
+     
+     FECHA DE GENERACION : 24 de FEBRERO de 2022 22:12:01
+
+     PEMEX - EMPRESAS PRODUCTIVAS SUBSIDIARIAS
+     SISTEMA INTEGRAL DE INFORMACION COMERCIAL (SIIC)
+     REPORTE DEL PROGRAMA DE ENTREGAS
+
+
+     Num.   Num.        Num.  Num.  Mot.      C  l  i  e  n  t  e       Dest. Ord.      Ctro  Producto/  Pres MT Vehiculo        Numero      Cantidad    Hora   Tiempo Hora
+     Viaje  Pedido.     Ord.  Cons. Sal.                                Clte. Tras.     Dest. Descripc.          Chofer          Tonel       Tonel       Inicio Carga  Final     Status             Turno
+     ======================================================================================================================================================================================================
+
+
+
+     Centro:  684  Fecha Programa: 24/02/2022 Posicion de Carga:   1
+
+
+
+     Centro:  684                             Posicion de Carga:   1      Turno Operacion :   1
+
+       1     1206418 1551092 1551092 SV  0001501283  GRUPO ENERGIAMA    144                   32011       3   AT PMX8952            1        20,000.000         00:12            PENDIENTE                    1
+                                                                                PX MAGNA             RIMM-920825-PF6
+       2     1206217 1551105 1551105 SV  0001501519  PATRICIA LOPEZ       3                   32011       3   AT AZS0512            1        20,000.000         00:12            CANCELADO                    1
+                                                                                PX MAGNA             
+       3     1206444   14891 1551117 SV  0001501283  GRUPO ENERGIAMA    166                   32011       3   AT AZS0454            1        21,000.000         00:12            ATENDIDO                     1
+                                                                                PX MAGNA             
+       4     1206461   14894 1551088 SV  0001500903  DIST.HAMSE         177                   32011       3   AT FZS2911            1        21,000.000         00:12            ATENDIDO                     1
+                                                                                PX MAGNA             
+       5     1204712   14846 1551118 SV  0001500903  DIST.HAMSE         158                   32011       3   AT PMX8959            1        20,000.000         00:12            ATENDIDO                     1
+                                                                                PX MAGNA             MEMP-710722-
+       6     1204708 1551138 1551138 SV  0001500805  FLETES LEMARGO     206                   32011       3   AT PMX10833           1        20,000.000         00:12            PENDIENTE                    1
+                                                                                PX MAGNA             RIMM-920825-PF6
+       7     1206420 1551151 1551151 SV  0001501283  GRUPO ENERGIAMA     42                   32011       3   AT PMX10810           1        20,000.000         00:12            PENDIENTE                    1
+                                                                                PX MAGNA             ROVJ-700311-
+      50     1206424 1551148 1551148 SV  0001501283  GRUPO ENERGIAMA    129                   32011       3   AT PMX0000            1        20,000.000         00:20            CANCELADO                    1
+                                                                                PX MAGNA             
+      50     1206407 1551136 1551136 SV  0001501283  GRUPO ENERGIAMA    164                   32011       3   AT PMX0000            1        20,000.000         00:20            PENDIENTE                    1
+                                                                                PX MAGNA             RIGF-910201-
+      50     1206501 1551145 1551145 SV  0000202944  REPSOL             253                   32011       3   AT PMX0000            1        20,000.000         00:20            CANCELADO                    1
+                                                                                PX MAGNA             SABR-860601-
+      50     1206426 1551150 1551150 SV  0001501283  GRUPO ENERGIAMA    172                   32011       3   AT PMX0000            1        20,000.000         00:20            PENDIENTE                    1
+                                                                                PX MAGNA             RIMM-920825-PF6
+      50     1206442   14830 1551152 SV  0001501283  GRUPO ENERGIAMA     69                   32011       3   AT PMX0000            1        20,000.000         00:20            ATENDIDO                     1
+                                                                                PX MAGNA             ROVJ-700311-
+      50     1206397 1551140 1551140 SV  0001501283  GRUPO ENERGIAMA     77                   32011       3   AT PMX0000            1        20,000.000         00:20            PENDIENTE                    1
+                                                                                PX MAGNA             RIMM-920825-PF6
+                                                                                                                            ---------------
+                                                                Subtotal por Posicion de Carga / Turno Operacion :              262,000.000
+
+
+     Centro:  684                             Posicion de Carga:   1      Turno Operacion :   2
+
+       1     1206133   14903 1551156 SV  0001400358  BUENAVENTURA         1                   32025       3   AT PMX10220           1        20,000.000         00:12            ATENDIDO                     2
+                                                                                GASOLINA 87 OCT      BOFR-780605-
+       2     1206502   14883 1551165 SV  0001501283  GRUPO ENERGIAMA    126                   32011       3   AT AZS0193            1        20,000.000         00:12            ATENDIDO                     2
+                                                                                PX MAGNA             
+      50     1204706 1551081 1551081 SV  0001500805  FLETES LEMARGO     207                   32011       3   AT PMX0000            1        20,000.000         00:20            PENDIENTE                    2
+                                                                                PX MAGNA             
+
+     SIIC scpee001          Pagina    1           /reportes/reportes/GTYAB684_scmae_prog_entr.lst                                                     
+
+
+
+
+
+
+     
+     FECHA DE GENERACION : 24 de FEBRERO de 2022 22:12:01
+
+     PEMEX - EMPRESAS PRODUCTIVAS SUBSIDIARIAS
+     SISTEMA INTEGRAL DE INFORMACION COMERCIAL (SIIC)
+     REPORTE DEL PROGRAMA DE ENTREGAS
+
+
+     Num.   Num.        Num.  Num.  Mot.      C  l  i  e  n  t  e       Dest. Ord.      Ctro  Producto/  Pres MT Vehiculo        Numero      Cantidad    Hora   Tiempo Hora
+     Viaje  Pedido.     Ord.  Cons. Sal.                                Clte. Tras.     Dest. Descripc.          Chofer          Tonel       Tonel       Inicio Carga  Final     Status             Turno
+     ======================================================================================================================================================================================================
+
+      50     1206464 1551172 1551172 SV  0001501283  GRUPO ENERGIAMA    116                   32011       3   AT PMX0000            1        20,000.000         00:20            PENDIENTE                    2
+                                                                                PX MAGNA             
+      50     1206394 1551120 1551120 SV  0001501283  GRUPO ENERGIAMA     13                   32011       3   AT PMX0000            1        20,000.000         00:20            PENDIENTE                    2
+                                                                                PX MAGNA             SACI-701024-
+      50     1206416   14880 1551171 SV  0001501283  GRUPO ENERGIAMA    222                   32011       3   AT AZS0200            1        10,000.000         00:20            ATENDIDO                     2
+                                                                                PX MAGNA             
+      50     1206396 1551089 1551089 SV  0001501283  GRUPO ENERGIAMA     17                   32011       3   AT PMX0000            1        20,000.000         00:20            PENDIENTE                    2
+                                                                                PX MAGNA             
+      50     1206443   14984 1551116 SV  0001501283  GRUPO ENERGIAMA    139                   32011       3   AT PMX0000            1        20,000.000         00:20            ATENDIDO                     2
+                                                                                PX MAGNA             AUCA-840904-
+      50     1206395 1551112 1551112 SV  0001501283  GRUPO ENERGIAMA     14                   32011       3   AT PMX0000            1        20,000.000         00:20            PENDIENTE                    2
+                                                                                PX MAGNA             
+      50     1206398   14900 1551082 SV  0001501283  GRUPO ENERGIAMA     77                   32011       3   AT PMX0000            1        20,000.000         00:20            ATENDIDO                     2
+                                                                                PX MAGNA             
+      50     1206469 1551175 1551175 SV  0001500903  DIST.HAMSE         175                   32011       3   AT FZS3443            1        31,000.000         00:20            CANCELADO                    2
+                                                                                PX MAGNA             
+      50     1206435 1551091 1551091 SV  0001501283  GRUPO ENERGIAMA     71                   32011       3   AT FZS3520            2        19,000.000         00:20            CANCELADO                    2
+                                                                                PX MAGNA             
+      50     1204974 1551079 1551079 SV  0001500805  FLETES LEMARGO     548                   32011       3   AT PMX0000            1        20,000.000         00:20            PENDIENTE                    2
+                                                                                PX MAGNA             
+      50     1206460   14893 1551170 SV  0001500903  DIST.HAMSE         176                   32011       3   AT FZS3443            1        31,000.000         00:20            ATENDIDO                     2
+                                                                                PX MAGNA             
+      50     1206434   14836 1551090 SV  0001501283  GRUPO ENERGIAMA     71                   32011       3   AT FZS3520            1        19,000.000         00:20            ATENDIDO                     2
+                                                                                PX MAGNA             
+      50     1206417 1551157 1551157 SV  0001501283  GRUPO ENERGIAMA    142                   32011       3   AT PMX0000            1        20,000.000         00:20            PENDIENTE                    2
+                                                                                PX MAGNA             BOFR-780605-
+      99       14918   14918   14918 SV  0001501283  GRUPO ENERGIAMA    177                   32011       3   AT FZS2681            2        20,000.000         00:11            ATENDIDO                     2
+                                                                                PX MAGNA             OOCR-880301-1K5
+                                                                                                                            ---------------
+                                                                Subtotal por Posicion de Carga / Turno Operacion :              350,000.000
+
+
+     Centro:  684                             Posicion de Carga:   1      Turno Operacion :   3
+
+       1     1206400 1551166 1551166 SV  0001501283  GRUPO ENERGIAMA    149                   32011       3   AT FZS3581            1        19,000.000         00:11            CANCELADO                    3
+                                                                                PX MAGNA             
+      50     1206399   14957 1551180 SV  0001501283  GRUPO ENERGIAMA     77                   32011       3   AT PMX0000            1        20,000.000         00:20            ATENDIDO                     3
+                                                                                PX MAGNA             
+      50     1206495 1551178 1551178 SV  0000202944  REPSOL             242                   32011       3   AT PMX0000            1        20,000.000         00:20            PENDIENTE                    3
+                                                                                PX MAGNA             
+      99       14797   14797   14797 SV  0001501283  GRUPO ENERGIAMA    102                   32011       3   AT PMX8957            1        20,000.000         00:11            PENDIENTE                    3
+                                                                                PX MAGNA             BOLM-860426-EC6
+      99       14996   14996   14996 SV  0001501283  GRUPO ENERGIAMA    223                   32011       3   AT FZS2915            1        20,000.000         00:11            ATENDIDO                     3
+                                                                                PX MAGNA             CAES-760426-
+      99       15000   15000   15000 SV  0001501283  GRUPO ENERGIAMA    157                   32011       3   AT PMX11518           2        10,000.000         00:05            ATENDIDO                     3
+                                                                                PX MAGNA             PEVR-810107-N18
+
+     SIIC scpee001          Pagina    2           /reportes/reportes/GTYAB684_scmae_prog_entr.lst                                                     
+
+
+
+
+
+
+     
+     FECHA DE GENERACION : 24 de FEBRERO de 2022 22:12:01
+
+     PEMEX - EMPRESAS PRODUCTIVAS SUBSIDIARIAS
+     SISTEMA INTEGRAL DE INFORMACION COMERCIAL (SIIC)
+     REPORTE DEL PROGRAMA DE ENTREGAS
+
+
+     Num.   Num.        Num.  Num.  Mot.      C  l  i  e  n  t  e       Dest. Ord.      Ctro  Producto/  Pres MT Vehiculo        Numero      Cantidad    Hora   Tiempo Hora
+     Viaje  Pedido.     Ord.  Cons. Sal.                                Clte. Tras.     Dest. Descripc.          Chofer          Tonel       Tonel       Inicio Carga  Final     Status             Turno
+     ======================================================================================================================================================================================================
+
+                                                                                                                            ---------------
+                                                                Subtotal por Posicion de Carga / Turno Operacion :              109,000.000
+                                                                                                                            ---------------
+                                                                Subtotal por Posicion de Carga:                                 721,000.000
+
+
+     Centro:  684  Fecha Programa: 24/02/2022 Posicion de Carga:   2
+
+
+
+     Centro:  684                             Posicion de Carga:   2      Turno Operacion :   1
+
+       1     1206505   14892 1551094 SV  0000202944  REPSOL             194                   34006       3   AT PMX10810           1        20,000.000         00:17            ATENDIDO                     1
+                                                                                PX DIESEL            ROVJ-700311-
+       2     1206428   14879 1551106 SV  0001501283  GRUPO ENERGIAMA     39                   34006       3   AT AZS0189            1        35,000.000         00:29            ATENDIDO                     1
+                                                                                PX DIESEL            
+       3     1206403   14958 1551119 SV  0001501283  GRUPO ENERGIAMA     51                   34006       3   AT PMX10219           1        20,000.000         00:17            ATENDIDO                     1
+                                                                                PX DIESEL            SACI-701024-
+       4     1206405 1551093 1551093 SV  0001501283  GRUPO ENERGIAMA     22                   34006       3   AT PMX10089           1        20,000.000         00:17            PENDIENTE                    1
+                                                                                PX DIESEL            SABR-860601-
+       5     1206409 1551122 1551122 SV  0001501283  GRUPO ENERGIAMA    164                   34006       3   AT PMX10220           1        20,000.000         00:17            PENDIENTE                    1
+                                                                                PX DIESEL            AUCA-840904-
+      99       14858   14858   14858 SV  0001500805  FLETES LEMARGO     741                   34006       3   AT AZS0269            2        31,000.000         00:26            ATENDIDO                     1
+                                                                                PX DIESEL            OOHC-750312-
+      99       14857   14857   14857 SV  0001500805  FLETES LEMARGO     741                   34006       3   AT AZS0269            1        31,000.000         00:26            ATENDIDO                     1
+                                                                                PX DIESEL            OOHC-750312-
+                                                                                                                            ---------------
+                                                                Subtotal por Posicion de Carga / Turno Operacion :              177,000.000
+
+
+     Centro:  684                             Posicion de Carga:   2      Turno Operacion :   2
+
+       1     1204695 1551158 1551158 SV  0000114369  JORGE GUZMAN         1                   34006       3   AT PMX8952            1        20,000.000         00:17            CANCELADO                    2
+                                                                                PX DIESEL            MOLF-700920-
+      50     1206474   14888 1551087 SV  0001500903  DIST.HAMSE         179                   34006       3   AT PMX0000            1        20,000.000         00:20            ATENDIDO                     2
+                                                                                PX DIESEL            
+      99       14878   14878   14878 SV  0000107455  GJ.MANZANO           1                   34015       3   AT FZS3369            1        38,000.000         00:31            ATENDIDO                     2
+                                                                                DIESEL AUTOM         OIGM-730118-EW2
+                                                                                                                            ---------------
+                                                                Subtotal por Posicion de Carga / Turno Operacion :               78,000.000
+
+
+     Centro:  684                             Posicion de Carga:   2      Turno Operacion :   3
+
+       1     1206270 1551167 1551167 SV  0000202917  FUSION              10                   34006       3   AT PMX8952            1        20,000.000         00:17            PENDIENTE                    3
+                                                                                PX DIESEL            MOLF-700920-
+
+     SIIC scpee001          Pagina    3           /reportes/reportes/GTYAB684_scmae_prog_entr.lst                                                     
+
+
+
+
+
+
+     
+     FECHA DE GENERACION : 24 de FEBRERO de 2022 22:12:01
+
+     PEMEX - EMPRESAS PRODUCTIVAS SUBSIDIARIAS
+     SISTEMA INTEGRAL DE INFORMACION COMERCIAL (SIIC)
+     REPORTE DEL PROGRAMA DE ENTREGAS
+
+
+     Num.   Num.        Num.  Num.  Mot.      C  l  i  e  n  t  e       Dest. Ord.      Ctro  Producto/  Pres MT Vehiculo        Numero      Cantidad    Hora   Tiempo Hora
+     Viaje  Pedido.     Ord.  Cons. Sal.                                Clte. Tras.     Dest. Descripc.          Chofer          Tonel       Tonel       Inicio Carga  Final     Status             Turno
+     ======================================================================================================================================================================================================
+
+      50     1206421 1551179 1551179 SV  0001501283  GRUPO ENERGIAMA    114                   34006       3   AT PMX0000            1        20,000.000         00:20            PENDIENTE                    3
+                                                                                PX DIESEL            
+      50     1206425 1551177 1551177 SV  0001501283  GRUPO ENERGIAMA    130                   34006       3   AT PMX0000            1        20,000.000         00:20            PENDIENTE                    3
+                                                                                PX DIESEL            
+      99       14997   14997   14997 SV  0001501283  GRUPO ENERGIAMA    223                   34006       3   AT FZS2915            2        10,000.000         00:08            ATENDIDO                     3
+                                                                                PX DIESEL            CAES-760426-
+                                                                                                                            ---------------
+                                                                Subtotal por Posicion de Carga / Turno Operacion :               70,000.000
+                                                                                                                            ---------------
+                                                                Subtotal por Posicion de Carga:                                 325,000.000
+
+
+     Centro:  684  Fecha Programa: 24/02/2022 Posicion de Carga:   3
+
+
+
+     Centro:  684                             Posicion de Carga:   3      Turno Operacion :   1
+
+       1     1204971   14874 1551095 SV  0001500805  FLETES LEMARGO     110                   34006       3   AT PMX10089           1        20,000.000         00:13            ATENDIDO                     1
+                                                                                PX DIESEL            SABR-860601-
+       2     1206453   14922 1551108 SV  0001500903  DIST.HAMSE         157                   34006       3   AT AZS0369            1        36,000.000         00:23            ATENDIDO                     1
+                                                                                PX DIESEL            
+       3     1206472 1551121 1551121 SV  0000111485  REGALADO MARTIN      1                   34015       3   AT FZS3643            1        20,000.000         00:13            CANCELADO                    1
+                                                                                DIESEL AUTOM         
+       4     1206406 1551097 1551097 SV  0001501283  GRUPO ENERGIAMA     23                   34006       3   AT PMX10219           1        20,000.000         00:13            PENDIENTE                    1
+                                                                                PX DIESEL            SACI-701024-
+      99       14807   14807   14807 SV  0001500805  FLETES LEMARGO     622                   34006       3   AT FZS3148            1        20,000.000         00:12            ATENDIDO                     1
+                                                                                PX DIESEL            JACD-850810-386
+                                                                                                                            ---------------
+                                                                Subtotal por Posicion de Carga / Turno Operacion :              116,000.000
+
+
+     Centro:  684                             Posicion de Carga:   3      Turno Operacion :   2
+
+       1     1206439 1551159 1551159 SV  0001501283  GRUPO ENERGIAMA    127                   34006       3   AT FZS3580            1        12,500.000         00:08            CANCELADO                    2
+                                                                                PX DIESEL            
+       2     1206440   14926 1551160 SV  0001501283  GRUPO ENERGIAMA    127                   34006       3   AT FZS3580            2        20,500.000         00:13            ATENDIDO                     2
+                                                                                PX DIESEL            
+      99       14795   14795   14795 SV  0001501283  GRUPO ENERGIAMA    154                   34006       3   AT PMX11518           1        10,000.000         00:06            ATENDIDO                     2
+                                                                                PX DIESEL            JOHP-920325-FU8
+      99       14902   14902   14902 SV  0000500012  LOGISTICA           71                   34015       3   AT PMX10089           1           400.000         00:00            CANCELADO                    2
+                                                                                DIESEL AUTOM         BOLM-860426-EC6
+      99       14889   14889   14889 SV  0000500012  LOGISTICA           71                   34015       3   AT PMX10219           1           500.000         00:00            ATENDIDO                     2
+                                                                                DIESEL AUTOM         MOLF-700920-MKA
+      99       14910   14910   14910 SV  0000500012  LOGISTICA           71                   34015       3   AT PMX11066           1           500.000         00:00            ATENDIDO                     2
+                                                                                DIESEL AUTOM         GOFJ-800622-BE6
+
+     SIIC scpee001          Pagina    4           /reportes/reportes/GTYAB684_scmae_prog_entr.lst                                                     
+
+
+
+
+
+
+     
+     FECHA DE GENERACION : 24 de FEBRERO de 2022 22:12:01
+
+     PEMEX - EMPRESAS PRODUCTIVAS SUBSIDIARIAS
+     SISTEMA INTEGRAL DE INFORMACION COMERCIAL (SIIC)
+     REPORTE DEL PROGRAMA DE ENTREGAS
+
+
+     Num.   Num.        Num.  Num.  Mot.      C  l  i  e  n  t  e       Dest. Ord.      Ctro  Producto/  Pres MT Vehiculo        Numero      Cantidad    Hora   Tiempo Hora
+     Viaje  Pedido.     Ord.  Cons. Sal.                                Clte. Tras.     Dest. Descripc.          Chofer          Tonel       Tonel       Inicio Carga  Final     Status             Turno
+     ======================================================================================================================================================================================================
+
+      99       14911   14911   14911 SV  0000500012  LOGISTICA           71                   34015       3   AT PMX10089           1           400.000         00:00            ATENDIDO                     2
+                                                                                DIESEL AUTOM         BOLM-860426-EC6
+                                                                                                                            ---------------
+                                                                Subtotal por Posicion de Carga / Turno Operacion :               44,800.000
+
+
+     Centro:  684                             Posicion de Carga:   3      Turno Operacion :   3
+
+      99       14956   14956   14956 SV  0000500012  LOGISTICA           71                   34015       3   AT PMX11518           2        10,000.000         00:00            ATENDIDO                     3
+                                                                                DIESEL AUTOM         PEVR-810107-N18
+      99       14954   14954   14954 SV  0000500012  LOGISTICA           71                   34015       3   AT PMX11518           1           300.000         00:00            ATENDIDO                     3
+                                                                                DIESEL AUTOM         PEVR-810107-N18
+      99       14993   14993   14993 SV  0001501283  GRUPO ENERGIAMA    117                   34006       3   AT FZS2287            1        34,000.000         00:21            ATENDIDO                     3
+                                                                                PX DIESEL            SAFJ-801009-2E0
+      99       14979   14979   14979 SV  0001500805  FLETES LEMARGO     623                   34006       3   AT FZS0220            1        20,000.000         00:12            ATENDIDO                     3
+                                                                                PX DIESEL            GORG-811006-G84
+      99       14953   14953   14953 SV  0000500012  LOGISTICA           71                   34015       3   AT PMX10094           1           300.000         00:00            ATENDIDO                     3
+                                                                                DIESEL AUTOM         NEDM-740301-CY3
+      99       14802   14802   14802 SV  0001501283  GRUPO ENERGIAMA    100                   34006       3   AT PMX10089           1        20,000.000         00:12            PENDIENTE                    3
+                                                                                PX DIESEL            SABR-860601-N81
+      99       14988   14988   14988 SV  0001501283  GRUPO ENERGIAMA     76                   34006       3   AT AZS0342            1        36,000.000         00:23            ATENDIDO                     3
+                                                                                PX DIESEL            MOHG-720323-4E8
+                                                                                                                            ---------------
+                                                                Subtotal por Posicion de Carga / Turno Operacion :              120,600.000
+                                                                                                                            ---------------
+                                                                Subtotal por Posicion de Carga:                                 281,400.000
+
+
+     Centro:  684  Fecha Programa: 24/02/2022 Posicion de Carga:   4
+
+
+
+     Centro:  684                             Posicion de Carga:   4      Turno Operacion :   1
+
+       1     1206390   14896 1551096 SV  0000202943  BP EST. Y SERV.    530                   32011       3   AT PMX10833           1        20,000.000         00:12            ATENDIDO                     1
+                                                                                PX MAGNA             RIMM-920825-PF6
+       2     1206429   14885 1551110 SV  0001501283  GRUPO ENERGIAMA     41                   32011       3   AT AZS0361            1        35,000.000         00:21            ATENDIDO                     1
+                                                                                PX MAGNA             
+       3     1206445   14923 1551123 SV  0001501283  GRUPO ENERGIAMA    118                   32011       3   AT FZS3555            1        15,000.000         00:09            ATENDIDO                     1
+                                                                                PX MAGNA             
+       4     1206446   14924 1551124 SV  0001501283  GRUPO ENERGIAMA    118                   32011       3   AT FZS3555            2        15,000.000         00:09            ATENDIDO                     1
+                                                                                PX MAGNA             
+       5     1206470   14898 1551101 SV  0001500903  DIST.HAMSE         172                   32011       3   AT FZS3486            1        19,000.000         00:11            ATENDIDO                     1
+                                                                                PX MAGNA             
+       6     1206471   14899 1551104 SV  0001500903  DIST.HAMSE         172                   32011       3   AT FZS3486            2        19,000.000         00:11            ATENDIDO                     1
+                                                                                PX MAGNA             
+
+     SIIC scpee001          Pagina    5           /reportes/reportes/GTYAB684_scmae_prog_entr.lst                                                     
+
+
+
+
+
+
+     
+     FECHA DE GENERACION : 24 de FEBRERO de 2022 22:12:01
+
+     PEMEX - EMPRESAS PRODUCTIVAS SUBSIDIARIAS
+     SISTEMA INTEGRAL DE INFORMACION COMERCIAL (SIIC)
+     REPORTE DEL PROGRAMA DE ENTREGAS
+
+
+     Num.   Num.        Num.  Num.  Mot.      C  l  i  e  n  t  e       Dest. Ord.      Ctro  Producto/  Pres MT Vehiculo        Numero      Cantidad    Hora   Tiempo Hora
+     Viaje  Pedido.     Ord.  Cons. Sal.                                Clte. Tras.     Dest. Descripc.          Chofer          Tonel       Tonel       Inicio Carga  Final     Status             Turno
+     ======================================================================================================================================================================================================
+
+       7     1204715   14863 1551127 SV  0001500903  DIST.HAMSE         387                   32011       3   AT PMX10833           1        20,000.000         00:12            ATENDIDO                     1
+                                                                                PX MAGNA             RIMM-920825-PF6
+       8     1206408 1551141 1551141 SV  0001501283  GRUPO ENERGIAMA    141                   32011       3   AT PMX8959            1        20,000.000         00:12            CANCELADO                    1
+                                                                                PX MAGNA             MEMP-710722-
+       9     1206427 1551153 1551153 SV  0001500805  FLETES LEMARGO     207                   32011       3   AT PMX10219           1        20,000.000         00:12            PENDIENTE                    1
+                                                                                PX MAGNA             SACI-701024-
+      99       14839   14839   14839 SV  0001501283  GRUPO ENERGIAMA     69                   32011       3   AT PMX8959            1         1,542.000         00:00            ATENDIDO                     1
+                                                                                PX MAGNA             MEMP-710722-1N8
+                                                                                                                            ---------------
+                                                                Subtotal por Posicion de Carga / Turno Operacion :              184,542.000
+
+
+     Centro:  684                             Posicion de Carga:   4      Turno Operacion :   2
+
+       1     1206459   14975 1551161 SV  0001500903  DIST.HAMSE         174                   32011       3   AT FZS3443            1        31,000.000         00:18            ATENDIDO                     2
+                                                                                PX MAGNA             
+      99       14787   14787   14787 SV  0001501283  GRUPO ENERGIAMA    137                   32011       3   AT AZS0474            2        31,000.000         00:18            CANCELADO                    2
+                                                                                PX MAGNA             GUAC-720925-F80
+      99       14796   14796   14796 SV  0001501283  GRUPO ENERGIAMA    154                   32011       3   AT PMX11518           2        10,000.000         00:05            ATENDIDO                     2
+                                                                                PX MAGNA             JOHP-920325-FU8
+      99       14785   14785   14785 SV  0001501283  GRUPO ENERGIAMA    138                   32011       3   AT AZS0474            2        31,000.000         00:18            CANCELADO                    2
+                                                                                PX MAGNA             GUAC-720925-F80
+      99       14794   14794   14794 SV  0001501283  GRUPO ENERGIAMA    184                   32011       3   AT FZS3644            1        19,200.000         00:11            ATENDIDO                     2
+                                                                                PX MAGNA             MAAL-820510-TG8
+      99       14786   14786   14786 SV  0001501283  GRUPO ENERGIAMA    137                   32011       3   AT AZS0474            1        31,000.000         00:18            CANCELADO                    2
+                                                                                PX MAGNA             GUAC-720925-F80
+      99       14784   14784   14784 SV  0001501283  GRUPO ENERGIAMA    138                   32011       3   AT AZS0474            1        31,000.000         00:18            CANCELADO                    2
+                                                                                PX MAGNA             GUAC-720925-F80
+                                                                                                                            ---------------
+                                                                Subtotal por Posicion de Carga / Turno Operacion :              184,200.000
+
+
+     Centro:  684                             Posicion de Carga:   4      Turno Operacion :   3
+
+       1     1206430   14838 1551168 SV  0001501283  GRUPO ENERGIAMA     71                   32011       3   AT AZS0411            1        31,500.000         00:19            ATENDIDO                     3
+                                                                                PX MAGNA             
+      99       14977   14977   14977 SV  0001501283  GRUPO ENERGIAMA    113                   32011       3   AT FZS1742            2        32,500.000         00:19            ATENDIDO                     3
+                                                                                PX MAGNA             LOUF-780323-
+                                                                                                                            ---------------
+                                                                Subtotal por Posicion de Carga / Turno Operacion :               64,000.000
+                                                                                                                            ---------------
+                                                                Subtotal por Posicion de Carga:                                 432,742.000
+
+
+     Centro:  684  Fecha Programa: 24/02/2022 Posicion de Carga:   5
+
+
+     SIIC scpee001          Pagina    6           /reportes/reportes/GTYAB684_scmae_prog_entr.lst                                                     
+
+
+
+
+
+
+     
+     FECHA DE GENERACION : 24 de FEBRERO de 2022 22:12:01
+
+     PEMEX - EMPRESAS PRODUCTIVAS SUBSIDIARIAS
+     SISTEMA INTEGRAL DE INFORMACION COMERCIAL (SIIC)
+     REPORTE DEL PROGRAMA DE ENTREGAS
+
+
+     Num.   Num.        Num.  Num.  Mot.      C  l  i  e  n  t  e       Dest. Ord.      Ctro  Producto/  Pres MT Vehiculo        Numero      Cantidad    Hora   Tiempo Hora
+     Viaje  Pedido.     Ord.  Cons. Sal.                                Clte. Tras.     Dest. Descripc.          Chofer          Tonel       Tonel       Inicio Carga  Final     Status             Turno
+     ======================================================================================================================================================================================================
+
+
+
+     Centro:  684                             Posicion de Carga:   5      Turno Operacion :   1
+
+       1     1206462   14827 1551098 SV  0001500903  DIST.HAMSE         224                   32011       3   AT PMX8959            1        20,000.000         00:12            ATENDIDO                     1
+                                                                                PX MAGNA             MEMP-710722-
+       2     1206431   14887 1551111 SV  0001501283  GRUPO ENERGIAMA     44                   32011       3   AT AZS0199            1        33,500.000         00:21            ATENDIDO                     1
+                                                                                PX MAGNA             
+       3     1206447   14895 1551125 SV  0001500903  DIST.HAMSE         154                   32011       3   AT AZS0515            1        18,000.000         00:11            ATENDIDO                     1
+                                                                                PX MAGNA             
+       4     1206448   14897 1551126 SV  0001500903  DIST.HAMSE         154                   32011       3   AT AZS0515            2        20,000.000         00:12            ATENDIDO                     1
+                                                                                PX MAGNA             
+       5     1206475 1551107 1551107 SV  0001501283  GRUPO ENERGIAMA      3                   32011       3   AT FZS2853            1        32,000.000         00:20            CANCELADO                    1
+                                                                                PX MAGNA             
+       6     1206476 1551109 1551109 SV  0001501283  GRUPO ENERGIAMA      3                   32011       3   AT FZS2853            2        32,000.000         00:20            CANCELADO                    1
+                                                                                PX MAGNA             
+       7     1206391 1551130 1551130 SV  0001501283  GRUPO ENERGIAMA     46                   32011       3   AT PMX10810           1        20,000.000         00:12            PENDIENTE                    1
+                                                                                PX MAGNA             ROVJ-700311-
+       8     1206392   14962 1551144 SV  0001501283  GRUPO ENERGIAMA     47                   32011       3   AT PMX10089           1        20,000.000         00:12            ATENDIDO                     1
+                                                                                PX MAGNA             SABR-860601-
+       9     1206422   14901 1551155 SV  0001501283  GRUPO ENERGIAMA    116                   32011       3   AT PMX11231           1        20,000.000         00:12            ATENDIDO                     1
+                                                                                PX MAGNA             RIGF-910201-
+      99       14821   14821   14821 SV  0001501283  GRUPO ENERGIAMA     77                   32011       3   AT PMX10219           1        20,000.000         00:12            PENDIENTE                    1
+                                                                                PX MAGNA             OICA-850318-1W3
+                                                                                                                            ---------------
+                                                                Subtotal por Posicion de Carga / Turno Operacion :              235,500.000
+
+
+     Centro:  684                             Posicion de Carga:   5      Turno Operacion :   2
+
+       1     1206465   14920 1551162 SV  0001500903  DIST.HAMSE         399                   32011       3   AT FZS2915            1        20,000.000         00:12            ATENDIDO                     2
+                                                                                PX MAGNA             
+       2     1206466   14913 1551163 SV  0001500903  DIST.HAMSE         399                   32011       3   AT FZS2915            2        10,000.000         00:06            CANCELADO                    2
+                                                                                PX MAGNA             
+      99       14783   14783   14783 SV  0001501283  GRUPO ENERGIAMA    173                   32011       3   AT AZS0512            1        20,000.000         00:12            ATENDIDO                     2
+                                                                                PX MAGNA             LOFA-840713-J17
+      99       14782   14782   14782 SV  0001501283  GRUPO ENERGIAMA    165                   32011       3   AT FZS2950            1        31,000.000         00:19            ATENDIDO                     2
+                                                                                PX MAGNA             FEMA-730902-
+                                                                                                                            ---------------
+                                                                Subtotal por Posicion de Carga / Turno Operacion :               81,000.000
+
+
+     Centro:  684                             Posicion de Carga:   5      Turno Operacion :   3
+
+      99       14799   14799   14799 SV  0001501283  GRUPO ENERGIAMA    104                   32011       3   AT PMX0000            1        10,000.000         00:06            CANCELADO                    3
+                                                                                PX MAGNA             PEVR-810107-N18
+
+     SIIC scpee001          Pagina    7           /reportes/reportes/GTYAB684_scmae_prog_entr.lst                                                     
+
+
+
+
+
+
+     
+     FECHA DE GENERACION : 24 de FEBRERO de 2022 22:12:01
+
+     PEMEX - EMPRESAS PRODUCTIVAS SUBSIDIARIAS
+     SISTEMA INTEGRAL DE INFORMACION COMERCIAL (SIIC)
+     REPORTE DEL PROGRAMA DE ENTREGAS
+
+
+     Num.   Num.        Num.  Num.  Mot.      C  l  i  e  n  t  e       Dest. Ord.      Ctro  Producto/  Pres MT Vehiculo        Numero      Cantidad    Hora   Tiempo Hora
+     Viaje  Pedido.     Ord.  Cons. Sal.                                Clte. Tras.     Dest. Descripc.          Chofer          Tonel       Tonel       Inicio Carga  Final     Status             Turno
+     ======================================================================================================================================================================================================
+
+      99       14798   14798   14798 SV  0001501283  GRUPO ENERGIAMA    104                   32011       3   AT PMX11518           1        10,000.000         00:06            ATENDIDO                     3
+                                                                                PX MAGNA             PEVR-810107-N18
+      99       14967   14967   14967 SV  0001501283  GRUPO ENERGIAMA    144                   32011       3   AT PMX11066           1        20,000.000         00:12            ATENDIDO                     3
+                                                                                PX MAGNA             ZAGG-891120-RE7
+      99       14998   14998   14998 SV  0000107527  S. SERV. PASTRA      1                   32025       3   AT FZS2950            1        31,000.000         00:19            ATENDIDO                     3
+                                                                                GASOLINA 87 OCT      FEMA-730902-
+                                                                                                                            ---------------
+                                                                Subtotal por Posicion de Carga / Turno Operacion :               71,000.000
+                                                                                                                            ---------------
+                                                                Subtotal por Posicion de Carga:                                 387,500.000
+
+
+     Centro:  684  Fecha Programa: 24/02/2022 Posicion de Carga:   6
+
+
+
+     Centro:  684                             Posicion de Carga:   6      Turno Operacion :   1
+
+       1     1206412 1551099 1551099 SV  0001501283  GRUPO ENERGIAMA      6                   32012       3   AT FZS3442            1        21,000.000         00:15            CANCELADO                    1
+                                                                                PXPREMIUM            
+       2     1206413   14937 1551100 SV  0001501283  GRUPO ENERGIAMA      6                   32012       3   AT FZS3442            2        10,000.000         00:07            ATENDIDO                     1
+                                                                                PXPREMIUM            
+       3     1206503   14960 1551113 SV  0000202944  REPSOL             194                   32012       3   AT PMX11231           1        20,000.000         00:14            ATENDIDO                     1
+                                                                                PXPREMIUM            RIGF-910201-
+       4     1206432 1551128 1551128 SV  0001501283  GRUPO ENERGIAMA     71                   32012       3   AT FZS3520            1        19,000.000         00:13            CANCELADO                    1
+                                                                                PXPREMIUM            
+       5     1206433   14837 1551077 SV  0001501283  GRUPO ENERGIAMA     71                   32012       3   AT FZS3520            2        19,000.000         00:13            ATENDIDO                     1
+                                                                                PXPREMIUM            
+       6     1206438   14881 1551080 SV  0001501283  GRUPO ENERGIAMA    112                   32012       3   AT AZS0200            1        10,000.000         00:07            ATENDIDO                     1
+                                                                                PXPREMIUM            
+       7     1206450   14927 1551132 SV  0001500903  DIST.HAMSE         156                   32012       3   AT AZS0370            1        20,000.000         00:14            ATENDIDO                     1
+                                                                                PXPREMIUM            
+       8     1206414   14936 1551146 SV  0001501283  GRUPO ENERGIAMA      8                   32012       3   AT FZS3442            1        21,000.000         00:15            ATENDIDO                     1
+                                                                                PXPREMIUM            
+       9     1206415 1551147 1551147 SV  0001501283  GRUPO ENERGIAMA      8                   32012       3   AT FZS3442            2        10,000.000         00:07            CANCELADO                    1
+                                                                                PXPREMIUM            
+      50     1206411   14952 1551133 SV  0001501283  GRUPO ENERGIAMA    147                   32012       3   AT PMX0000            1        20,000.000         00:20            ATENDIDO                     1
+                                                                                PXPREMIUM            
+      50     1206423 1551143 1551143 SV  0001501283  GRUPO ENERGIAMA    116                   32012       3   AT PMX0000            1        20,000.000         00:20            PENDIENTE                    1
+                                                                                PXPREMIUM            MEMP-710722-
+      50     1206454   14847 1551154 SV  0001500903  DIST.HAMSE         158                   32012       3   AT PMX0000            1        20,000.000         00:20            ATENDIDO                     1
+                                                                                PXPREMIUM            SACI-701024-
+      50     1206463   14828 1551142 SV  0001500903  DIST.HAMSE         224                   32012       3   AT PMX0000            1        20,000.000         00:20            ATENDIDO                     1
+                                                                                PXPREMIUM            MEMP-710722-
+      50     1206504 1551139 1551139 SV  0000202944  REPSOL              82                   32012       3   AT PMX0000            1        20,000.000         00:20            PENDIENTE                    1
+                                                                                PXPREMIUM            RIMM-920825-PF6
+
+     SIIC scpee001          Pagina    8           /reportes/reportes/GTYAB684_scmae_prog_entr.lst                                                     
+
+
+
+
+
+
+     
+     FECHA DE GENERACION : 24 de FEBRERO de 2022 22:12:01
+
+     PEMEX - EMPRESAS PRODUCTIVAS SUBSIDIARIAS
+     SISTEMA INTEGRAL DE INFORMACION COMERCIAL (SIIC)
+     REPORTE DEL PROGRAMA DE ENTREGAS
+
+
+     Num.   Num.        Num.  Num.  Mot.      C  l  i  e  n  t  e       Dest. Ord.      Ctro  Producto/  Pres MT Vehiculo        Numero      Cantidad    Hora   Tiempo Hora
+     Viaje  Pedido.     Ord.  Cons. Sal.                                Clte. Tras.     Dest. Descripc.          Chofer          Tonel       Tonel       Inicio Carga  Final     Status             Turno
+     ======================================================================================================================================================================================================
+
+      50     1204973 1551131 1551131 SV  0001500805  FLETES LEMARGO     421                   32012       3   AT PMX0000            1        20,000.000         00:20            CANCELADO                    1
+                                                                                PXPREMIUM            ROVJ-700311-
+      50     1206410   14831 1551134 SV  0001501283  GRUPO ENERGIAMA    141                   32012       3   AT PMX0000            1        20,000.000         00:20            CANCELADO                    1
+                                                                                PXPREMIUM            
+      50     1206402   14955 1551137 SV  0001501283  GRUPO ENERGIAMA     51                   32012       3   AT PMX0000            1        20,000.000         00:20            ATENDIDO                     1
+                                                                                PXPREMIUM            RIGF-910201-
+      99       14842   14842   14842 SV  0001501283  GRUPO ENERGIAMA    141                   32012       3   AT PMX10094           1        20,000.000         00:14            ATENDIDO                     1
+                                                                                PXPREMIUM            AUCA-840904-BT0
+      99       14835   14835   14835 SV  0001501283  GRUPO ENERGIAMA    141                   32012       3   AT PMX10094           1        20,000.000         00:14            CANCELADO                    1
+                                                                                PXPREMIUM            SIJD-780907-1F3
+                                                                                                                            ---------------
+                                                                Subtotal por Posicion de Carga / Turno Operacion :              350,000.000
+
+
+     Centro:  684                             Posicion de Carga:   6      Turno Operacion :   2
+
+      50     1206401 1551086 1551086 SV  0001501283  GRUPO ENERGIAMA     77                   32012       3   AT PMX0000            1        20,000.000         00:20            PENDIENTE                    2
+                                                                                PXPREMIUM            
+      50     1206473   14890 1551176 SV  0001500903  DIST.HAMSE         179                   32012       3   AT PMX0000            1        20,000.000         00:20            ATENDIDO                     2
+                                                                                PXPREMIUM            
+      50     1206467   14914 1551173 SV  0001500903  DIST.HAMSE         399                   32012       3   AT FZS2915            1        20,000.000         00:20            ATENDIDO                     2
+                                                                                PXPREMIUM            
+      50     1206477   14985 1551084 SV  0001501283  GRUPO ENERGIAMA    139                   32012       3   AT PMX0000            1        20,000.000         00:20            ATENDIDO                     2
+                                                                                PXPREMIUM            
+      50     1206468 1551174 1551174 SV  0001500903  DIST.HAMSE         399                   32012       3   AT FZS2915            2        10,000.000         00:20            CANCELADO                    2
+                                                                                PXPREMIUM            
+      50     1206419 1551078 1551078 SV  0001501283  GRUPO ENERGIAMA     78                   32012       3   AT PMX0000            1        20,000.000         00:20            PENDIENTE                    2
+                                                                                PXPREMIUM            
+      99       14917   14917   14917 SV  0001501283  GRUPO ENERGIAMA    177                   32012       3   AT FZS2681            1        35,000.000         00:24            ATENDIDO                     2
+                                                                                PXPREMIUM            OOCR-880301-1K5
+      99       14793   14793   14793 SV  0001501283  GRUPO ENERGIAMA    153                   32012       3   AT FZS3560            2        25,000.000         00:07            ATENDIDO                     2
+                                                                                PXPREMIUM            MAAL-820510-TG8
+      99       14792   14792   14792 SV  0001501283  GRUPO ENERGIAMA    153                   32012       3   AT FZS3560            1        10,000.000         00:07            ATENDIDO                     2
+                                                                                PXPREMIUM            MAAL-820510-TG8
+                                                                                                                            ---------------
+                                                                Subtotal por Posicion de Carga / Turno Operacion :              180,000.000
+
+
+     Centro:  684                             Posicion de Carga:   6      Turno Operacion :   3
+
+       1     1206436   14925 1551169 SV  0001501283  GRUPO ENERGIAMA    127                   32012       3   AT FZS3580            1        12,500.000         00:09            ATENDIDO                     3
+                                                                                PXPREMIUM            
+       2     1206437 1551129 1551129 SV  0001501283  GRUPO ENERGIAMA    127                   32012       3   AT FZS3580            2        20,500.000         00:15            CANCELADO                    3
+                                                                                PXPREMIUM            
+      99       14989   14989   14989 SV  0001500903  DIST.HAMSE         178                   32012       3   AT FZS2911            1        21,000.000         00:14            ATENDIDO                     3
+                                                                                PXPREMIUM            CUTJ-730624-HX2
+
+     SIIC scpee001          Pagina    9           /reportes/reportes/GTYAB684_scmae_prog_entr.lst                                                     
+
+
+
+
+
+
+     
+     FECHA DE GENERACION : 24 de FEBRERO de 2022 22:12:01
+
+     PEMEX - EMPRESAS PRODUCTIVAS SUBSIDIARIAS
+     SISTEMA INTEGRAL DE INFORMACION COMERCIAL (SIIC)
+     REPORTE DEL PROGRAMA DE ENTREGAS
+
+
+     Num.   Num.        Num.  Num.  Mot.      C  l  i  e  n  t  e       Dest. Ord.      Ctro  Producto/  Pres MT Vehiculo        Numero      Cantidad    Hora   Tiempo Hora
+     Viaje  Pedido.     Ord.  Cons. Sal.                                Clte. Tras.     Dest. Descripc.          Chofer          Tonel       Tonel       Inicio Carga  Final     Status             Turno
+     ======================================================================================================================================================================================================
+
+      99       14994   14994   14994 SV  0001500903  DIST.HAMSE         165                   32012       3   AT AZS0499            2        19,000.000         00:13            ATENDIDO                     3
+                                                                                PXPREMIUM            QUOO-920321-N73
+      99       14990   14990   14990 SV  0001501283  GRUPO ENERGIAMA    113                   32012       3   AT FZS1742            2        32,500.000         00:23            ATENDIDO                     3
+                                                                                PXPREMIUM            LOUF-780323-
+      99       14800   14800   14800 SV  0001501283  GRUPO ENERGIAMA    104                   32012       3   AT PMX11518           2        10,000.000         00:07            ATENDIDO                     3
+                                                                                PXPREMIUM            PEVR-810107-N18
+                                                                                                                            ---------------
+                                                                Subtotal por Posicion de Carga / Turno Operacion :              115,500.000
+                                                                                                                            ---------------
+                                                                Subtotal por Posicion de Carga:                                 645,500.000
+
+
+     Centro:  684  Fecha Programa: 24/02/2022 Posicion de Carga:   7
+
+
+
+     Centro:  684                             Posicion de Carga:   7      Turno Operacion :   1
+
+       1     1206455 1551102 1551102 SV  0001500903  DIST.HAMSE         162                   32011       3   AT AZS0499            1        19,000.000         00:15            CANCELADO                    1
+                                                                                PX MAGNA             
+       2     1206456   14845 1551103 SV  0001500903  DIST.HAMSE         162                   32011       3   AT AZS0499            2        19,000.000         00:15            ATENDIDO                     1
+                                                                                PX MAGNA             
+       3     1204705 1551115 1551115 SV  0001500805  FLETES LEMARGO     111                   32011       3   AT PMX10220           1        20,000.000         00:15            PENDIENTE                    1
+                                                                                PX MAGNA             AUCA-840904-
+       4     1206449   14938 1551083 SV  0001500903  DIST.HAMSE         156                   32011       3   AT AZS0342            1        36,000.000         00:28            ATENDIDO                     1
+                                                                                PX MAGNA             
+       5     1206457   14844 1551085 SV  0001500903  DIST.HAMSE         165                   32011       3   AT AZS0499            1        19,000.000         00:15            ATENDIDO                     1
+                                                                                PX MAGNA             
+       6     1206458   14995 1551114 SV  0001500903  DIST.HAMSE         165                   32011       3   AT AZS0499            2        19,000.000         00:15            ATENDIDO                     1
+                                                                                PX MAGNA             
+       7     1206393 1551135 1551135 SV  0001501283  GRUPO ENERGIAMA     49                   32011       3   AT PMX11231           1        20,000.000         00:15            PENDIENTE                    1
+                                                                                PX MAGNA             RIGF-910201-
+       8     1204972 1551149 1551149 SV  0001500805  FLETES LEMARGO     205                   32011       3   AT PMX8952            1        20,000.000         00:15            PENDIENTE                    1
+                                                                                PX MAGNA             RIMM-920825-PF6
+                                                                                                                            ---------------
+                                                                Subtotal por Posicion de Carga / Turno Operacion :              172,000.000
+
+
+     Centro:  684                             Posicion de Carga:   7      Turno Operacion :   2
+
+       1     1206404   14841 1551164 SV  0001501283  GRUPO ENERGIAMA     76                   32011       3   AT AZS0517            1        30,000.000         00:23            ATENDIDO                     2
+                                                                                PX MAGNA             
+                                                                                                                            ---------------
+                                                                Subtotal por Posicion de Carga / Turno Operacion :               30,000.000
+                                                                                                                            ---------------
+                                                                Subtotal por Posicion de Carga:                                 202,000.000
+
+     SIIC scpee001          Pagina   10           /reportes/reportes/GTYAB684_scmae_prog_entr.lst                                                     
+
+
+
+
+
+
+     
+     FECHA DE GENERACION : 24 de FEBRERO de 2022 22:12:01
+
+     PEMEX - EMPRESAS PRODUCTIVAS SUBSIDIARIAS
+     SISTEMA INTEGRAL DE INFORMACION COMERCIAL (SIIC)
+     REPORTE DEL PROGRAMA DE ENTREGAS
+
+
+     Num.   Num.        Num.  Num.  Mot.      C  l  i  e  n  t  e       Dest. Ord.      Ctro  Producto/  Pres MT Vehiculo        Numero      Cantidad    Hora   Tiempo Hora
+     Viaje  Pedido.     Ord.  Cons. Sal.                                Clte. Tras.     Dest. Descripc.          Chofer          Tonel       Tonel       Inicio Carga  Final     Status             Turno
+     ======================================================================================================================================================================================================
+
+                                                                                                                            ---------------
+                                                                Total por Centro :                                            2,995,142.000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     SIIC scpee001          Pagina   11           /reportes/reportes/GTYAB684_scmae_prog_entr.lst                                                     
+
+
+
